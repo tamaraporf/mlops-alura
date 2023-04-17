@@ -1,4 +1,4 @@
-Primeiro Projeto de MLOps
+Projeto de MLOps
 ==============================
 
 A short description of the project.
