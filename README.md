@@ -1,4 +1,4 @@
-Projeto de MLOps
+Projeto de MLOps Alura
 ==============================
 
 A short description of the project.
